@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/RocketMQConfig.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/MessageSet.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/DefaultMessageRetryManager.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/MessageRetryManager.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/RocketMQReceiver.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/SimpleMQPullConsumerProviderFactory.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/MQPullConsumerProviderFactory.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/MQPullConsumerProvider.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/ReliableRocketMQReceiver.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/streaming/SimpleMQPullConsumerProvider.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/OffsetCommitCallback.java">
+</file>
+<file name="/Users/johnnyzhou/IdeaProjects/rocketmq-externals/rocketmq-spark/src/main/java/org/apache/rocketmq/spark/TopicQueueId.java">
+</file>
+</checkstyle>

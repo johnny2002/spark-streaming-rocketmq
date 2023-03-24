@@ -1,0 +1,16 @@
+org/apache/rocketmq/spark/streaming/MessageRetryManager.class
+org/apache/rocketmq/spark/streaming/RocketMQReceiver$1.class
+org/apache/rocketmq/spark/streaming/MQPullConsumerProvider.class
+org/apache/rocketmq/spark/streaming/MQPullConsumerProviderFactory.class
+org/apache/rocketmq/spark/streaming/DefaultMessageRetryManager$1.class
+org/apache/rocketmq/spark/streaming/SimpleMQPullConsumerProviderFactory.class
+org/apache/rocketmq/spark/streaming/RocketMQReceiver.class
+org/apache/rocketmq/spark/streaming/DefaultMessageRetryManager.class
+org/apache/rocketmq/spark/TopicQueueId.class
+org/apache/rocketmq/spark/streaming/MessageSet.class
+org/apache/rocketmq/spark/streaming/ReliableRocketMQReceiver$MessageSender.class
+org/apache/rocketmq/spark/streaming/SimpleMQPullConsumerProvider.class
+org/apache/rocketmq/spark/RocketMQConfig.class
+org/apache/rocketmq/spark/OffsetCommitCallback.class
+org/apache/rocketmq/spark/streaming/RocketMQReceiver$2.class
+org/apache/rocketmq/spark/streaming/ReliableRocketMQReceiver.class
